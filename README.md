@@ -1,3 +1,3 @@
 ## Hi
-game dev
+python AI
 and web pages
